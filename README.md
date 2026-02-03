@@ -1,8 +1,6 @@
-# AddonMover v0.1-alpha
+# AddonMover v0.1
 
-## Warning ⚠️:
-This project is discontinued, although it still works and is and will be maintained by me. Feel free make  Pull Requests and contribute💻!
-
+This project is being developed further, although it still works and will be maintained by me. Feel free to open Pull Requests!
 
 ## RELEASE NOTES:
 
